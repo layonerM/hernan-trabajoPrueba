@@ -1,26 +1,11 @@
 {
-  "name": "my-gatsby-site",
+  "name": "taller",
   "version": "1.0.0",
-  "private": true,
-  "description": "my-gatsby-site",
-  "author": "layonerM",
-  "keywords": [
-    "gatsby"
-  ],
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "gatsby": "^4.10.3",
-    "gatsby-plugin-image": "^2.10.1",
-    "gatsby-plugin-sharp": "^4.10.2",
-    "gatsby-source-filesystem": "^4.10.1",
-    "gatsby-transformer-sharp": "^4.10.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
-  }
+  "author": "Layoner Murgas",
+  "license": "ISC"
 }
